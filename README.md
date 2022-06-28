@@ -4,7 +4,7 @@ const OPU = {
   country_from: "Bangladesh",
   have_to: "Software Engineer",
   want_to: "Believer",
-  follow_to: "Mohammad PBUH"
+  follow_to: "MOHAMMAD PBUH"
   skills: ["SCSS", "NEXT", "NODE"]
 }
 
