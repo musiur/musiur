@@ -3,11 +3,8 @@ const OPU = {
   name: "Musiur Alam Opu",
   country: "Bangladesh",
   do: "Software Engineer",
-  is: "Believer"
+  is: "Believer",
+  skilss: ["JAVASCRIPT","SCSS", "TAILWIND", "REACT", "NEXT", "NODE", "SQL", "MONGODB"]
 }
-```
-
-```HTML
-<h1>JavaScript</h1>
 
 ```
