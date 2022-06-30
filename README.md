@@ -5,7 +5,8 @@ const OPU = {
   have_to: "Software Engineer",
   want_to: "Believer",
   follow_to: "MOHAMMAD PBUH"
-  skills: ["SCSS", "NEXT", "NODE"]
+  skills: ["SCSS", "NEXT", "NODE"],
+  pursuing: "BSc in Computer Science"
 }
 
 ```
