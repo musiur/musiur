@@ -1,12 +1,12 @@
 ```JS
 const OPU = {
   full_name: "Musiur Alam Opu",
-  country_from: "Bangladesh",
-  have_to: "Software Engineer",
-  want_to: "Believer",
-  follow_to: "MOHAMMAD PBUH",
-  skills: ["SCSS", "NEXT", "NODE"],
-  pursuing: "BSc in Computer Science"
+  location: "Dhaka, Bangladesh",
+  who_am_i: "Software Engineer",
+  want_to_be_a: "Believer",
+  follower_of: "MOHAMMAD PBUH",
+  skills: ["SCSS", "NEXT", "NODE", "REACT"],
+  pursuing: "BSc in Computer Science and Engineering"
 }
 
 ```
