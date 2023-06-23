@@ -34,7 +34,7 @@ const OPU = {
   
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;Design:&nbsp;
+- 🖥 &nbsp;UI/UX:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
  <!-- ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer) -->
