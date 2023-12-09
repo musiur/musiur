@@ -20,7 +20,7 @@ const OPU = {
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-  <!-- ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react) -->
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
