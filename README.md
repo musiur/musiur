@@ -13,6 +13,7 @@ const OPU = {
   follower_of: "MOHAMMAD PBUH"
 }
 ```
+
 <h3> 🚀 &nbsp;Tech Stack</h3>
 
 - 🗄 &nbsp;Backend:&nbsp;
