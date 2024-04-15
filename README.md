@@ -1,9 +1,12 @@
+<!--
+
 <p>
   <a href="https://musiur.vercel.app" target="_blank">
     <img width="40em" height="40em" src="https://musiur-old.vercel.app/static/logo/musiur1.svg">
   </a>
 </p>
 
+-->
 ```JS
 const OPU = {
   full_name: "Musiur Alam Opu",
