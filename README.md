@@ -17,34 +17,16 @@ const OPU = {
 }
 ```
 
-<h3> 🚀 &nbsp;Tech Stack</h3>
+## 🧩 Tech Stack
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,mongo,mysql,postgres,docker,figma,xd&theme=dark">
+</p>
 
-- 🗄 &nbsp;Backend:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-- 🌐 &nbsp;Frontend:&nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  
-- 🛢 &nbsp;Database:&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
- <!-- ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github) -->
-  
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;UI/UX:&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
- <!-- ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-  ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer) -->
-  
 
-<!-- - 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd) -->
-
-<!--   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd) -->
-<!--   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql) -->
+## 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=musiur&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=musiur&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musiur&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
