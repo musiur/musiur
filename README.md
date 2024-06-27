@@ -19,7 +19,7 @@ const OPU = {
 
 ## 🧩 Tech Stack
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,mongo,mysql,postgres,docker,figma,xd&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,mongo,mysql,postgres,docker,tailwind,scss,figma,xd&theme=dark">
 </p>
 
 
