@@ -7,7 +7,6 @@
 </p>
 
 
-
 ```JS
 const OPU = {
   full_name: "Musiur Alam Opu",
